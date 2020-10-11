@@ -1,0 +1,10 @@
+First line is the subject Hi {name}
+Hei {name},
+
+This is a test message for {name} that uses {email}
+
+Your thing is: {thing}
+
+--
+Kind regards,
+Mario

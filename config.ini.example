@@ -1,0 +1,6 @@
+[smtp]
+from = Its a me <mario@example.com>
+host = my.stmp.server.example.com
+user = mario@example.com
+password = hunter2
+port = 587
