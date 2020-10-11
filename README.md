@@ -12,14 +12,14 @@ Run the script without --really flag to test the connection to the smtp server a
 
 ```
 pipenv shell
-python send.py -b example_message.txt -t example_list.txt
+python send.py -b example_message.txt -t example_list.csv
 ```
 
 After that looks ok rerun with the --really flag set
 
 ```
 pipenv shell
-python send.py -b example_message.txt -t example_list.txt --really
+python send.py -b example_message.txt -t example_list.csv --really
 ```
 
 ## TODO
