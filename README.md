@@ -1,4 +1,4 @@
-# Tre hacklab spammer
+# Tre hacklab email sender
 
 Sends email to list of users. Mainly used for notifying a group of users of something important.
 
